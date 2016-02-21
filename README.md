@@ -1,2 +1,3 @@
 # fix-text-lines
-Inkscape extension for fixing text elements with broken multi-line behavior
+This Inkscape extension fixes broken multi-line in text elements.
+See bug https://bugs.launchpad.net/inkscape/+bug/366744 for details.
